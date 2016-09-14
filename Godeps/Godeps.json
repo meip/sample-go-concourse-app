@@ -1,0 +1,5 @@
+{
+  "ImportPath": "sample-go-concourse-app",
+  "GoVersion": "go1.5",
+	"Deps": []
+}
